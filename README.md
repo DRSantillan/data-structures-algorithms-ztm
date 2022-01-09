@@ -1,2 +1,5 @@
-# data-structures-algorithms-ztm
-Data Structures &amp; Algorithms
+# Data Structures &amp; Algorithms
+
+## Arrays
+1. Implement an Array using classes
+2. Reverse a string
