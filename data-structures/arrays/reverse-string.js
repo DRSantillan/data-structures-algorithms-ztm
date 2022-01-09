@@ -30,7 +30,7 @@ const reverseBuiltInMethods = argString => {
 };
 //
 let startTime = performance.now();
-console.log(reverseBuiltInMethods(str), '<= builtin methods');
+console.log(reverseBuiltInMethods(str), '<= builtin methods ');
 let endTime = performance.now();
 console.log(endTime - startTime, ' <= Performance Time for built-in methods');
 
