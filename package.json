@@ -6,7 +6,7 @@
   "author": "Dean <dean@deansantillan.com>",
   "license": "MIT", 
   "scripts": {
-    "start": "nodemon data-structures/arrays/*.js"
+    "start": "nodemon data-structures/hash-tables/*.js"
   },
   "dependencies": {
     "nodemon": "^2.0.15"

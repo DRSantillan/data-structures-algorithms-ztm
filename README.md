@@ -10,3 +10,16 @@
 7. Contains Duplicates
 8. Rotate Array
 9. Longest Word 
+
+    Array Pros
+        1. fast lookups
+        2. fast push/pop
+        3. ordered
+
+    Array Cons
+        1. slow insertion
+        2. slow deletes
+        3. fixed to size if using a static array.
+
+
+## Hashtables
